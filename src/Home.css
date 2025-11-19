@@ -1,0 +1,14 @@
+.tasks-container {
+  width: 40rem;
+  border: 1px solid white;
+  height: max-content;
+}
+
+.input-field{
+    margin-bottom :1.5rem;
+}
+.task-input{
+    width: 24rem;
+    padding: 1rem;
+    border-radius: 10px;
+}

@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+}
+body {
+  display: block !important;
+  background-color: black;
+  margin: 0 auto;
+  text-align: center;
+  font-family: font1;
+}
+@font-face {
+  font-family: "font1";
+  src: url("../public/Fonts/Inter_18pt-Medium.ttf");
+}
+@font-face {
+  font-family: "font1";
+  src: url("../public/Fonts/Inter_18pt-Medium.ttf");
+  font-weight: 600;
+}

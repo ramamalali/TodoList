@@ -1,0 +1,18 @@
+.task {
+  width: 100%;
+  background-color: darkcyan;
+  display : flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+.taskicons-style{
+margin-right : 1rem;
+border-radius :4px;
+}
+.task-title{
+    font-size:2rem;
+    margin-bottom: 2rem;
+
+
+}
