@@ -1,4 +1,4 @@
-# ✅ ToDoList App (React + Vite)
+# ✅ TodoList App (React + Vite)
 
 A modern **ToDoList application** built with **React + Vite**, featuring state management with hooks, Material UI components, and task operations (add, edit, delete, mark as complete).  
 The app provides a clean UI, responsive design, and interactive feedback using Snackbar notifications.
@@ -31,6 +31,7 @@ The app provides a clean UI, responsive design, and interactive feedback using S
 - **uuid** → generate unique IDs for tasks.
 
 ---
+```
 todolist-app/
 │── public/
 │── src/
@@ -53,7 +54,7 @@ todolist-app/
 ├── Home.css
 │── package.json
 │── README.md
-
+```
 ---
 ## Demo
 ()
@@ -63,14 +64,19 @@ todolist-app/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/username/todolist-app.git
+```
+
 ### 2.
 ```bash
 cd todolist-app
+```
 ### 3.
 ```bash
  npm install
+```
 ### 4.
 ```bash
  npm run dev
+```
 ---
 This project is intended for training purposes. Feedback and suggestions are welcome
